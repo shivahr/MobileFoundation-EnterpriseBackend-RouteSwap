@@ -13,4 +13,4 @@
 9. Other driver receives a route-swap push notification. Upon clicking the message in notification bar, app is launched and route-swap request is shown. He sees buttons to either *Accept* or *Reject* the swap request. This driver accepts the swap request. 
 10. Mobile app makes a call to MobileFirst adapter to notify the response from this driver.
 11. Upon receiving the route-swap acceptance from second driver, MobileFirst adapter updates the backend server with swapped routes.
-12. MobileFirst adapter sends a push notification to the first driver informing him of the successful acceptance of his route-swap request
+12. MobileFirst adapter sends a push notification to the first driver informing him of the successful acceptance of his route-swap request.
